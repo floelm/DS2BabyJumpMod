@@ -54,7 +54,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="mod_icon.ico" />
-    <Content Include="santzoBabyJ.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
